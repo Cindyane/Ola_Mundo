@@ -1,2 +1,3 @@
 # Olá, Mundo!
- Primeiro repositorio do GitGitHub, criado nas férias, orientação do curso em vídeo, aprendendo.
+ Primeiro repositorio do GitHub, criado nas férias com orientação do curso em vídeo, aprendendo.
+ Essa linha eu adicionei no próprio site! 
