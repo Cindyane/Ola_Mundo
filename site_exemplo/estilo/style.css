@@ -2,13 +2,13 @@
     font-family: 'Times New Roman', Times, serif;
 }
 body {
-    background-color: brown;
+    background-color: rgb(243, 211, 211);
 
 }
 
 main {
-    background-color: aqua;
+    background-color: rgb(173, 238, 238);
     width:500 px;
     margin:  auto;
-    box-shadow: 3px 3px 5px blue;
+    box-shadow: 3px 3px 5px rgb(124, 124, 139);
 }
