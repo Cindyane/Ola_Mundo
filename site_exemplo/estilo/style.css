@@ -1,0 +1,14 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: brown;
+
+}
+
+main {
+    background-color: aqua;
+    width:500 px;
+    margin:  auto;
+    box-shadow: 3px 3px 5px blue;
+}
